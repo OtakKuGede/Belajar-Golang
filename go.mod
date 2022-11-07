@@ -1,3 +1,3 @@
-module github.com/OtakKuGede/Belajar-Golang.git
+module github.com/OtakKuGede/Belajar-Golang
 
 go 1.19
